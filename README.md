@@ -57,5 +57,5 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ¡Esperamos que este proyecto sea útil! Si tienes preguntas o sugerencias, no dudes en abrir un problema o ponerte en contacto con nosotros.
 
 🚀 ¡Gracias por contribuir! 🚀
-```
+
 
