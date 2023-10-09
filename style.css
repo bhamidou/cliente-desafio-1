@@ -22,6 +22,11 @@ body {
   padding: 2rem;
 }
 
+.header__left img{
+  width: 100px;
+  border-radius: 50%;
+} 
+
 h2,
 footer {
   font-family: "Libre Baskerville", serif;
