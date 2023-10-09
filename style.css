@@ -19,12 +19,14 @@ body {
   justify-content: space-between;
   display: flex;
   align-items: center;
-  padding: 2rem;
+  /* padding: 2rem; */
 }
-
+.header__rigth{
+  margin-left:1.5rem;
+}
 .header__left img{
   width: 100px;
-  border-radius: 50%;
+  margin-right:1.5rem;
 } 
 
 h2,
